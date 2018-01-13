@@ -1,2 +1,2 @@
 hello this is the second file.
-this is the edit in the master branch.
+this is to check the split window to let us show all the changes that we have commited.
