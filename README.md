@@ -1,2 +1,3 @@
 # hello
-just to use github
+## First repository to get used to Git and Github.
+This is just a start.
